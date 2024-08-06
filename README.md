@@ -52,9 +52,3 @@ Start the server
 Visit link for demo:[https://fitfood.netlify.app/](https://fitfood24.netlify.app/)
 
 
-## Features
-
-- Fullscreen mode
-- Cross platform
-- Approved, missing, edit functionality of price and quantity It also shows a previous value.
-
