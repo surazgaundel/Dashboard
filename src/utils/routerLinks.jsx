@@ -7,7 +7,7 @@ import Message from '../pages/Message';
 import Settings from '../pages/Settings';
 import Notification from '../pages/Notification';
 import Profile from '../pages/Profile';
-import LogOut from '../pages/Logout';
+import LogOut from '../pages/LogOut';
 import Error from '../pages/Error';
 
 export const routerLinks=[
