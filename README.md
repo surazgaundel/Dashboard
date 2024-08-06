@@ -1,8 +1,60 @@
-# React + Vite
+# Fit Food Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+Install my-project with npm
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Tech Stack
+
+- React,
+- Recharts for bar graph
+- React-router
+- react-icons
+- Vite, 
+- TailWind CSS for styling, 
+
+
+
+## Demo
+
+Visit link for demo:[https://fitfood.netlify.app/](https://fitfood24.netlify.app/)
+
+
+## Features
+
+- Fullscreen mode
+- Cross platform
+- Approved, missing, edit functionality of price and quantity It also shows a previous value.
+
