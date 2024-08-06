@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="165.8948px" height="165.89478px" viewBox="0 0 165.8948 165.89478" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-6">
+    <g id="Group-5">
+      <g id="Group-4">
+        <path d="M0 40.1344C0 17.9689 17.9687 0 40.1345 0C62.3004 0 80.2687 17.9689 80.2687 40.1344C80.2687 62.3003 62.3004 80.2687 40.1345 80.2687C17.9687 80.2687 0 62.3003 0 40.1344Z" id="Oval" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+        <path d="M0 40.1363L40.1344 40.1363L40.1344 80.2706L0 80.2706L0 40.1363Z" id="Rectangle" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group" transform="translate(0 85.62409)">
+        <path d="M40.1363 40.1363L80.2707 40.1363L80.2707 80.2707L40.1363 80.2707L40.1363 40.1363Z" id="Rectangle-3" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+        <path d="M0 40.1345C0 17.969 17.9687 0 40.1345 0C62.3004 0 80.2687 17.969 80.2687 40.1345C80.2687 62.3004 62.3004 80.2687 40.1345 80.2687C17.9687 80.2687 0 62.3004 0 40.1345Z" id="Oval-4" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group-2" transform="translate(85.62413 85.62409)">
+        <path d="M40.1363 0L80.2707 0L80.2707 40.1344L40.1363 40.1344L40.1363 0Z" id="Rectangle-4" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+        <path d="M0 40.1345C0 17.969 17.9688 0 40.1346 0C62.3004 0 80.2688 17.969 80.2688 40.1345C80.2688 62.3004 62.3004 80.2687 40.1346 80.2687C17.9688 80.2687 0 62.3004 0 40.1345Z" id="Oval-3" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+      </g>
+      <g id="Group-3" transform="translate(85.62413 0)">
+        <path d="M0 0L40.1344 0L40.1344 40.1344L0 40.1344L0 0Z" id="Rectangle-2" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+        <path d="M0 40.1344C0 17.9689 17.9688 0 40.1346 0C62.3004 0 80.2688 17.9689 80.2688 40.1344C80.2688 62.3003 62.3004 80.2687 40.1346 80.2687C17.9688 80.2687 0 62.3003 0 40.1344Z" id="Oval-2" fill="#7394FD" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
